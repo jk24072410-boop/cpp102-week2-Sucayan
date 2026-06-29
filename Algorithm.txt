@@ -1,0 +1,23 @@
+# ACTIVITY 1
+Step 1: Start.
+Step 2: Ask the user to enter the first number. Store it as num1.
+Step 3: Ask the user to enter the second number. Store it as num2.
+Step 4: Compute sum = num1 + num2.
+Step 5: Display sum.
+Step 6: End.
+
+# ACTIVITY 2
+Step 1: Start.
+Step 2: Ask the user to enter the grade. Store it as grade.
+Step 3: Check if grade is 60 or above.
+Step 4: If yes, display "Passed".
+Step 5: If no, display "Failed".
+Step 6: End.
+
+# ACTIVITY 3
+Step 1: Start.
+Step 2: Ask for number.
+Step 3: Check if number MOD 2 equals 0.
+Step 4: If yes, display "Even".
+Step 5: If no, display "Odd".
+Step 6: End.

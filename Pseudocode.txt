@@ -1,0 +1,16 @@
+START
+
+Gather ingredients
+Gather utensils
+
+IF ingredients are available THEN
+    Place bread on a plate
+    Add filling (ham, cheese, vegetables, etc.)
+    Place another slice of bread on top
+    Cut sandwich (optional)
+    Serve sandwich
+ELSE
+    Display "Ingredients are missing."
+END IF
+
+STOP
