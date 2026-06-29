@@ -1,16 +1,26 @@
+# ACTIVITY 1
 START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
 
-Gather ingredients
-Gather utensils
+# ACTIVITY 2
+START
+INPUT score 1
+INPUT score 2
+INPUT score 3
+PROCESS average = (score1+score2+score3)/3
+DISPLAY average
+END
 
-IF ingredients are available THEN
-    Place bread on a plate
-    Add filling (ham, cheese, vegetables, etc.)
-    Place another slice of bread on top
-    Cut sandwich (optional)
-    Serve sandwich
+# ACTIVITY 3
+START
+INPUT number
+IF number MOD 2 = 0 THEN
+DISPLAY "Even"
 ELSE
-    Display "Ingredients are missing."
+DISPLAY "Odd"
 END IF
-
-STOP
+END
